@@ -49,7 +49,7 @@ void loop()
 ![00](https://user-images.githubusercontent.com/94164665/203469028-d6cac1ae-b237-4b79-9bf2-b61913e77bf6.jpg)
 
 ### After Simulation:
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/94164665/203528490-91a2b6e0-59aa-4d9b-afb6-6ca888e5c41e.png)
 
 
 ## RESULTS:
